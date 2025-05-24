@@ -28,13 +28,6 @@ To create a fully gamified Web3 platform where:
 
 ### Team Name: `Bithereum`
 
-### Team Members:
-
-- 👩‍💼 Komal Singh – Team Lead, Full Stack Dev
-- 👨‍💻 Aaryan Kalbhor – Full Stack Dev
-- 👨‍💻 Aditya Gupta – Full Stack Dev
-- 👨‍💻 Dhruv Maurya – Full Stack Dev
-- 👩‍💼 Roma Shirodkar –  Full Stack Dev
 
 ### Approach:
 
