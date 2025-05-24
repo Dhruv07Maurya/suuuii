@@ -4,12 +4,6 @@
 
 ---
 
-## 📌 Problem Statement
-
-Web2 games offer fun but lack real ownership, transparency, and community governance. In Web3, current platforms either over-focus on DeFi or NFTs without providing engaging gameplay. There’s also friction in payments — wallet addresses are confusing and hard to share, making SUI transactions less intuitive.
-
----
-
 ## 🎯 Objective
 
 To create a fully gamified Web3 platform where:
@@ -23,11 +17,6 @@ To create a fully gamified Web3 platform where:
 **Users:** Gamers, NFT enthusiasts, and Web3 users seeking fun + financial freedom + control
 
 ---
-
-## 🧠 Team & Approach
-
-### Team Name: `Bithereum`
-
 
 ### Approach:
 
